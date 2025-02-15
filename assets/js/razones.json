@@ -1,0 +1,806 @@
+[
+    {
+        "id": 1,
+        "msg": "Por tu ser"
+    },
+    {
+        "id": 2,
+        "msg": "Por tu comprensión (especialmente cómo logras siempre entenderme)"
+    },
+    {
+        "id": 3,
+        "msg": "Por tu inteligencia"
+    },
+    {
+        "id": 4,
+        "msg": "Por lo capaz que eres"
+    },
+    {
+        "id": 5,
+        "msg": "Por tu sonrisa"
+    },
+    {
+        "id": 6,
+        "msg": "Por tu valentía"
+    },
+    {
+        "id": 7,
+        "msg": "Por lo guapo que eres"
+    },
+    {
+        "id": 8,
+        "msg": "Por tu fuerza"
+    },
+    {
+        "id": 9,
+        "msg": "Por tu naricita perfecta en tu rostro"
+    },
+    {
+        "id": 10,
+        "msg": "Por tu autoeficacia"
+    },
+    {
+        "id": 11,
+        "msg": "Por tu confianza"
+    },
+    {
+        "id": 12,
+        "msg": "Por tu carita linda"
+    },
+    {
+        "id": 13,
+        "msg": "Por tu optimismo"
+    },
+    {
+        "id": 14,
+        "msg": "Por tu esfuerzo"
+    },
+    {
+        "id": 15,
+        "msg": "Por tu seguridad"
+    },
+    {
+        "id": 16,
+        "msg": "Por tu compañía"
+    },
+    {
+        "id": 17,
+        "msg": "Por tus manos"
+    },
+    {
+        "id": 18,
+        "msg": "Por tu responsabilidad"
+    },
+    {
+        "id": 19,
+        "msg": "Por tu cabello finito y lacio"
+    },
+    {
+        "id": 20,
+        "msg": "Porque eres protector"
+    },
+    {
+        "id": 21,
+        "msg": "Porque eres buen hijo"
+    },
+    {
+        "id": 22,
+        "msg": "Porque eres buen hermano"
+    },
+    {
+        "id": 23,
+        "msg": "Por tu único hoyuelito tan tiernito"
+    },
+    {
+        "id": 24,
+        "msg": "Porque eres una excelente persona"
+    },
+    {
+        "id": 25,
+        "msg": "Porque eres amoroso"
+    },
+    {
+        "id": 26,
+        "msg": "Por tu masculinidad"
+    },
+    {
+        "id": 27,
+        "msg": "Por tu amabilidad"
+    },
+    {
+        "id": 28,
+        "msg": "Por tus besos"
+    },
+    {
+        "id": 29,
+        "msg": "Porque eres único"
+    },
+    {
+        "id": 30,
+        "msg": "Por tu resiliencia"
+    },
+    {
+        "id": 31,
+        "msg": "Por tu tranquilidad"
+    },
+    {
+        "id": 32,
+        "msg": "Por lo agradable que eres para las personas que te conocen"
+    },
+    {
+        "id": 33,
+        "msg": "Por cómo me hablas de lo que sabes hacer"
+    },
+    {
+        "id": 34,
+        "msg": "Porque eres confidente"
+    },
+    {
+        "id": 35,
+        "msg": "Por tu corazón noble"
+    },
+    {
+        "id": 36,
+        "msg": "Por tu ternura"
+    },
+    {
+        "id": 37,
+        "msg": "Por tu silencio"
+    },
+    {
+        "id": 38,
+        "msg": "Porque eres leal"
+    },
+    {
+        "id": 39,
+        "msg": "Por tu excelencia"
+    },
+    {
+        "id": 40,
+        "msg": "Por tu humildad"
+    },
+    {
+        "id": 41,
+        "msg": "Por cómo actúas como un niño a veces"
+    },
+    {
+        "id": 42,
+        "msg": "Porque me caes bien"
+    },
+    {
+        "id": 43,
+        "msg": "Por tu cariño"
+    },
+    {
+        "id": 44,
+        "msg": "Por lo buen amigo que eres"
+    },
+    {
+        "id": 45,
+        "msg": "Porque mis papitos y Yami te quieren tanto"
+    },
+    {
+        "id": 46,
+        "msg": "Porque siempre estás haciendo algo"
+    },
+    {
+        "id": 47,
+        "msg": "Por tus ojos cuando me observas con mucha atención"
+    },
+    {
+        "id": 48,
+        "msg": "Porque cambias por mí"
+    },
+    {
+        "id": 49,
+        "msg": "Porque eres divertido como a mí me gusta"
+    },
+    {
+        "id": 50,
+        "msg": "Por cómo me dices que estoy hermosa"
+    },
+    {
+        "id": 51,
+        "msg": "Porque, si no sabes algo, aprendes y te informas"
+    },
+    {
+        "id": 52,
+        "msg": "Por tus labios"
+    },
+    {
+        "id": 53,
+        "msg": "Por tus valores"
+    },
+    {
+        "id": 54,
+        "msg": "Porque no eres chismoso jajaja"
+    },
+    {
+        "id": 55,
+        "msg": "Por todo lo que has logrado hasta hoy"
+    },
+    {
+        "id": 56,
+        "msg": "Porque eres bien portadito"
+    },
+    {
+        "id": 57,
+        "msg": "Por tu educación"
+    },
+    {
+        "id": 58,
+        "msg": "Porque me amas de la manera más linda y rica"
+    },
+    {
+        "id": 59,
+        "msg": "Por tu creencia"
+    },
+    {
+        "id": 60,
+        "msg": "Porque sabes mucho de Dios"
+    },
+    {
+        "id": 61,
+        "msg": "Porque me diste a mi Kikita linda y cuidaste de ella hasta dármela"
+    },
+    {
+        "id": 62,
+        "msg": "Por tu sinceridad"
+    },
+    {
+        "id": 63,
+        "msg": "Por tu cuerpo"
+    },
+    {
+        "id": 64,
+        "msg": "Cuando te ríes de mí nunca es demasiado y veo cómo ya va parando su risita jajaja"
+    },
+    {
+        "id": 65,
+        "msg": "Porque siempre me llevas a comer muy rico"
+    },
+    {
+        "id": 66,
+        "msg": "Porque eres lindo"
+    },
+    {
+        "id": 67,
+        "msg": "Por tu capacidad de resolver"
+    },
+    {
+        "id": 68,
+        "msg": "Cuando me haces cosquillas"
+    },
+    {
+        "id": 69,
+        "msg": "Por tu caballerosidad"
+    },
+    {
+        "id": 70,
+        "msg": "Por el amor que me haces"
+    },
+    {
+        "id": 71,
+        "msg": "Porque nunca me has juzgado"
+    },
+    {
+        "id": 72,
+        "msg": "Por tus abrazos cálidos"
+    },
+    {
+        "id": 73,
+        "msg": "Por las facciones tan perfectas que tienes"
+    },
+    {
+        "id": 74,
+        "msg": "Porque me encanta tu profesión en ti"
+    },
+    {
+        "id": 75,
+        "msg": "Por tu gracia tan linda y perfecta"
+    },
+    {
+        "id": 76,
+        "msg": "Porque no eres ruidoso"
+    },
+    {
+        "id": 77,
+        "msg": "Por la atención que me das"
+    },
+    {
+        "id": 78,
+        "msg": "Por tu trato conmigo"
+    },
+    {
+        "id": 79,
+        "msg": "Porque puedo decirte lo que pienso"
+    },
+    {
+        "id": 80,
+        "msg": "Porque me das felicidad"
+    },
+    {
+        "id": 81,
+        "msg": "Por tu voz"
+    },
+    {
+        "id": 82,
+        "msg": "Porque me siento pequeñita estando contigo, pequeña y feliz"
+    },
+    {
+        "id": 83,
+        "msg": "Porque estás dispuesto a cuidarme"
+    },
+    {
+        "id": 84,
+        "msg": "Porque me has compartido tu trabajo de diferentes maneras (comprándome cositas y ayudándome en mucho también)"
+    },
+    {
+        "id": 85,
+        "msg": "Por tu paciencia"
+    },
+    {
+        "id": 86,
+        "msg": "Por tus cejas pobladas"
+    },
+    {
+        "id": 87,
+        "msg": "Por tus sueños"
+    },
+    {
+        "id": 88,
+        "msg": "Porque me conoces"
+    },
+    {
+        "id": 89,
+        "msg": "Cuando me dices \"mi princesa\""
+    },
+    {
+        "id": 90,
+        "msg": "Cuando preguntas si quiero algo"
+    },
+    {
+        "id": 91,
+        "msg": "Por tu aprecio hacia mi familia"
+    },
+    {
+        "id": 92,
+        "msg": "Porque me engríes"
+    },
+    {
+        "id": 93,
+        "msg": "Por tu carácter"
+    },
+    {
+        "id": 94,
+        "msg": "Por tu risa tímida y contenida"
+    },
+    {
+        "id": 95,
+        "msg": "Porque me das las florecitas más lindas"
+    },
+    {
+        "id": 96,
+        "msg": "Porque puedo apoyarme en ti"
+    },
+    {
+        "id": 97,
+        "msg": "Por tu hermoso nombre"
+    },
+    {
+        "id": 98,
+        "msg": "Porque me cuentas algo tuyo"
+    },
+    {
+        "id": 99,
+        "msg": "Cuando venías a verme a pesar de que ibas a volver tardecito a casa"
+    },
+    {
+        "id": 100,
+        "msg": "Por tu risa, la que sueltas con fuercita de vez en cuando"
+    },
+    {
+        "id": 101,
+        "msg": "Por tu madurez"
+    },
+    {
+        "id": 102,
+        "msg": "Porque me escuchas"
+    },
+    {
+        "id": 103,
+        "msg": "Por lo detallista que eres"
+    },
+    {
+        "id": 104,
+        "msg": "Porque no juzgas"
+    },
+    {
+        "id": 105,
+        "msg": "Porque quieres hacer una familia conmigo"
+    },
+    {
+        "id": 106,
+        "msg": "Por tu perdón sincero"
+    },
+    {
+        "id": 107,
+        "msg": "Porque dices que soy tierna"
+    },
+    {
+        "id": 108,
+        "msg": "Porque sabes de programación"
+    },
+    {
+        "id": 109,
+        "msg": "Porque me compras heladito ricoooo"
+    },
+    {
+        "id": 110,
+        "msg": "Por tu calma"
+    },
+    {
+        "id": 111,
+        "msg": "Porque no hablas mal de nadie"
+    },
+    {
+        "id": 112,
+        "msg": "Porque me complaces"
+    },
+    {
+        "id": 113,
+        "msg": "Porque eres decidido"
+    },
+    {
+        "id": 114,
+        "msg": "Porque te preocupas por mí"
+    },
+    {
+        "id": 115,
+        "msg": "Por el tiempo que me das"
+    },
+    {
+        "id": 116,
+        "msg": "Porque no tengo miedo de que conozcas de mí"
+    },
+    {
+        "id": 117,
+        "msg": "Porque me extrañas cuando estamos lejitos"
+    },
+    {
+        "id": 118,
+        "msg": "Porque no te parezco nunca rara"
+    },
+    {
+        "id": 119,
+        "msg": "Porque me amas tan lindo y tan perfecto"
+    },
+    {
+        "id": 120,
+        "msg": "Porque somos parecidos"
+    },
+    {
+        "id": 121,
+        "msg": "Porque no tengo vergüenza contigo"
+    },
+    {
+        "id": 122,
+        "msg": "Porque me dejas en casita"
+    },
+    {
+        "id": 123,
+        "msg": "Porque quiero cuidarte"
+    },
+    {
+        "id": 124,
+        "msg": "Por la dulzura y suavidad con la que me tratas"
+    },
+    {
+        "id": 125,
+        "msg": "Por tus ganas de lograr lo que te propongas"
+    },
+    {
+        "id": 126,
+        "msg": "Cuando cantas, no hay salida en la que no te haya escuchado cantar algo jajaja"
+    },
+    {
+        "id": 127,
+        "msg": "Porque sabes que estoy a punto de llorar"
+    },
+    {
+        "id": 128,
+        "msg": "Porque te detienes a apoyar a las personitas en la callecita"
+    },
+    {
+        "id": 129,
+        "msg": "Porque haces que me sienta bien"
+    },
+    {
+        "id": 130,
+        "msg": "Porque no me da miedo vivir hasta envejecer contigo"
+    },
+    {
+        "id": 131,
+        "msg": "Por tu personalidad"
+    },
+    {
+        "id": 132,
+        "msg": "Porque quieres darme todo y quieres trabajar por ello"
+    },
+    {
+        "id": 133,
+        "msg": "Porque tengo más por conocerte"
+    },
+    {
+        "id": 134,
+        "msg": "Porque eres admirable"
+    },
+    {
+        "id": 135,
+        "msg": "Por tu cerebro"
+    },
+    {
+        "id": 136,
+        "msg": "Porque me complementas tan perfectamente"
+    },
+    {
+        "id": 137,
+        "msg": "Porque eres cálido"
+    },
+    {
+        "id": 138,
+        "msg": "Porque te ríes de mis bromitas"
+    },
+    {
+        "id": 139,
+        "msg": "Porque no finges ser algo que no eres"
+    },
+    {
+        "id": 140,
+        "msg": "Por tu voluntad o disponibilidad para ayudar"
+    },
+    {
+        "id": 141,
+        "msg": "Por todos los buenos momentos"
+    },
+    {
+        "id": 142,
+        "msg": "Por los malos momentos que sirvieron para aprender"
+    },
+    {
+        "id": 143,
+        "msg": "Cuando recuerdas primero que cumplimos un mes más jajaja"
+    },
+    {
+        "id": 144,
+        "msg": "Porque quiero compartir mi vida contigo"
+    },
+    {
+        "id": 145,
+        "msg": "Porque no eres un fifas"
+    },
+    {
+        "id": 146,
+        "msg": "Porque eres waos"
+    },
+    {
+        "id": 147,
+        "msg": "Porque me nace amarte"
+    },
+    {
+        "id": 148,
+        "msg": "Por la increíble conexión que sentí desde el primer día"
+    },
+    {
+        "id": 149,
+        "msg": "Porque te gustan mis comiditas"
+    },
+    {
+        "id": 150,
+        "msg": "Porque síii, siempre síii"
+    },
+    {
+        "id": 151,
+        "msg": "Porque veo lo grande y exitoso que eres y serás siempre"
+    },
+    {
+        "id": 152,
+        "msg": "Porque desde el día que empezamos a hablar hasta hoy no me he sentido sola nunca"
+    },
+    {
+        "id": 153,
+        "msg": "Porque eres mi mejor amigo"
+    },
+    {
+        "id": 154,
+        "msg": "Por el tono en el que hablas"
+    },
+    {
+        "id": 155,
+        "msg": "Porque eres considerado"
+    },
+    {
+        "id": 156,
+        "msg": "Porque me amaste y perdonaste las veces que fui dura"
+    },
+    {
+        "id": 157,
+        "msg": "Porque me haces ver que tengo mucho por mejorar y no me quieres dejar por eso"
+    },
+    {
+        "id": 158,
+        "msg": "Porque siempre me das los buenos días"
+    },
+    {
+        "id": 159,
+        "msg": "Porque eres lo que he necesitado tanto tiempo"
+    },
+    {
+        "id": 160,
+        "msg": "Porque me gusta andar de la manito contigo"
+    },
+    {
+        "id": 161,
+        "msg": "Porque no te enfadas conmigo"
+    },
+    {
+        "id": 162,
+        "msg": "Por lo encantador que eres"
+    },
+    {
+        "id": 163,
+        "msg": "Porque somos más felices juntos"
+    },
+    {
+        "id": 164,
+        "msg": "Porque puedes admitir que te equivocas y cambiarías eso"
+    },
+    {
+        "id": 165,
+        "msg": "Porque cuidas de ti mismo"
+    },
+    {
+        "id": 166,
+        "msg": "Eres sexualmente atractivo"
+    },
+    {
+        "id": 167,
+        "msg": "Porque despiertas todo en mí"
+    },
+    {
+        "id": 168,
+        "msg": "Porque no eres como ningún otro hombre, eres el mejor mejor hombre que existe"
+    },
+    {
+        "id": 169,
+        "msg": "Porque nunca me hablas feo"
+    },
+    {
+        "id": 170,
+        "msg": "Porque puedes sobrellevar las dificultades"
+    },
+    {
+        "id": 171,
+        "msg": "Porque no encuentro maldad en ti"
+    },
+    {
+        "id": 172,
+        "msg": "Porque crees en ti"
+    },
+    {
+        "id": 173,
+        "msg": "Porque siempre quieres verme"
+    },
+    {
+        "id": 174,
+        "msg": "Porque puedo ser yo contigo"
+    },
+    {
+        "id": 175,
+        "msg": "Porque siempre me dices cosas bonitas"
+    },
+    {
+        "id": 176,
+        "msg": "Porque nunca pisoteas mi vulnerabilidad, la acoges"
+    },
+    {
+        "id": 177,
+        "msg": "Porque las canciones lindas me recuerdan a ti"
+    },
+    {
+        "id": 178,
+        "msg": "Porque le das paz a mi corazón"
+    },
+    {
+        "id": 179,
+        "msg": "Porque eres un hombre perfecto"
+    },
+    {
+        "id": 180,
+        "msg": "Porque tus defectos, sinceramente, no recuerdo ni uno"
+    },
+    {
+        "id": 181,
+        "msg": "Por todo lo que viene de ti, lo amo"
+    },
+    {
+        "id": 182,
+        "msg": "Porque puedo darte mi vida"
+    },
+    {
+        "id": 183,
+        "msg": "Porque se nota que me amas"
+    },
+    {
+        "id": 184,
+        "msg": "Porque confío en ti"
+    },
+    {
+        "id": 185,
+        "msg": "Porque cada vez que has dicho que me amas siempre se ha reflejado ese amor en tus acciones"
+    },
+    {
+        "id": 186,
+        "msg": "Porque sinceramente me desbordo de amor por ti"
+    },
+    {
+        "id": 187,
+        "msg": "Porque, así como dices que naciste y eres como eres para mí, yo nací y soy como soy justamente para ti y por ti"
+    },
+    {
+        "id": 188,
+        "msg": "Porque te pienso diariamente"
+    },
+    {
+        "id": 189,
+        "msg": "Porque puedes darme exclusividad"
+    },
+    {
+        "id": 190,
+        "msg": "Porque abrazas todo lo que soy sin importarte qué"
+    },
+    {
+        "id": 191,
+        "msg": "Porque te amaré siempre, hagas o no hagas, digas o no digas, no importa qué, yo solo te voy a amar porque sí"
+    },
+    {
+        "id": 192,
+        "msg": "Porque ves todo lo lindo en mí"
+    },
+    {
+        "id": 193,
+        "msg": "Porque mi corazón es tuyo"
+    },
+    {
+        "id": 194,
+        "msg": "Porque no tengo las palabras suficientes"
+    },
+    {
+        "id": 195,
+        "msg": "Porque mereces ser amado"
+    },
+    {
+        "id": 196,
+        "msg": "Porque jamás verás lo que soy contigo con alguien más"
+    },
+    {
+        "id": 197,
+        "msg": "Porque jamás haré lo que hago contigo con alguien más"
+    },
+    {
+        "id": 198,
+        "msg": "Porque no puedo describir todo el amor inmenso que siento por ti"
+    },
+    {
+        "id": 199,
+        "msg": "Porque te amo más de lo que he podido expresar"
+    },
+    {
+        "id": 200,
+        "msg": "Porque, ¿cómo no amarte si eres tú?"
+    },
+    {
+        "id": 201,
+        "msg": "Porque jamás dejaré de amarte"
+    }
+]
