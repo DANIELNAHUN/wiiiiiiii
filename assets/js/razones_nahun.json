@@ -398,5 +398,17 @@
     {
         "id": 100,
         "msg": "Amo que seamos tan novios"
+    },
+    {
+        "id": 101,
+        "msg": "Porque eres muy confidente"
+    },
+    {
+        "id": 102,
+        "msg": "Porque eres muy valiente"
+    },
+    {
+        "id": 103,
+        "msg": "Porque eres apasionada"
     }
 ]
